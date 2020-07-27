@@ -1,1 +1,1 @@
-dw-debugger
+sdapi-debugger
