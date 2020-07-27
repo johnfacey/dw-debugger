@@ -1,6 +1,6 @@
 var http = require('http');
 var btoa = require('btoa');
-var sdapi = require("./dw-script-lib.js");
+var sdapi = require("./sdapi.js");
 var jsonfile = require('jsonfile');
 
 sdapi.start();
